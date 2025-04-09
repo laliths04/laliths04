@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @laliths04
+- 👋 Hi, I’m @lalith_codemad
 - 👀 I’m interested in Machine learning and Deep learning Subjects and also web developments
 - 🌱 I’m currently learning about Deep learning
 - 💞️ I’m looking to collaborate on ...
